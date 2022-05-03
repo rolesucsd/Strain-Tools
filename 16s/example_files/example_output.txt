@@ -1,0 +1,28 @@
+qseqid	sseqid	pident	length	mismatch	gapopen	qstart	qend	sstart	send	evalue	bitscore	taxonomy
+QA_013_J665-C1_27F	NR_113594.1	99.532	1069	0	5	1	1065	29	1096	0	1941	Streptococcus equinus strain NBRC 12553 16S ribosomal RNA, partial sequence
+QA_013_J665-C1_27F	NR_114642.1	99.439	1069	1	5	1	1065	11	1078	0	1938	Streptococcus equinus strain NCDO 1037 16S ribosomal RNA, partial sequence
+QA_013_J665-C1_27F	NR_115719.1	99.158	1069	4	5	1	1065	21	1088	0	1919	Streptococcus lutetiensis strain CIP 106849 16S ribosomal RNA, partial sequence
+QA_014_J665-C2_27F_F02.out	"NA"	0	0	0	0	0	0	0	0	0	0	NA
+QA_015_J665-C3_27F	NR_170495.1	97.456	1022	20	6	1	1018	56	1075	0	1738	Blautia faecicola strain KGMB01111 16S ribosomal RNA, complete sequence
+QA_016_J665-C4_27F	NR_041342.1	97.356	1021	17	9	1	1014	40	1057	0	1727	Parabacteroides distasonis strain JCM 5825 16S ribosomal RNA, partial sequence
+QA_016_J665-C4_27F	NR_074376.1	96.964	1021	21	9	1	1014	55	1072	0	1705	Parabacteroides distasonis ATCC 8503 16S ribosomal RNA, partial sequence
+QA_017_J665-C5_27F	NR_026146.1	98.948	951	5	5	1	947	28	977	0	1696	Sarcina ventriculi strain DSM 286 16S ribosomal RNA, partial sequence
+QA_017_J665-C5_27F	NR_026147.1	98.426	953	9	5	1	947	28	980	0	1672	Sarcina maxima strain DSM 316 16S ribosomal RNA, partial sequence
+QA_017_J665-C5_27F	NR_104741.1	95.689	951	35	6	1	946	43	992	0	1524	Clostridium tarantellae strain UM-87 16S ribosomal RNA, partial sequence
+QA_018_J665-C6_27F	NR_112936.1	99.159	1070	2	7	1	1063	49	1118	0	1919	Bacteroides fragilis strain JCM 11019 16S ribosomal RNA, partial sequence
+QA_018_J665-C6_27F	NR_119164.1	99.159	1070	2	7	1	1063	28	1097	0	1919	Bacteroides fragilis strain ATCC 25285 16S ribosomal RNA, partial sequence
+QA_018_J665-C6_27F	NR_074784.2	99.159	1070	2	7	1	1063	56	1125	0	1919	Bacteroides fragilis NCTC 9343 16S ribosomal RNA, complete sequence
+QA_019_J665-C7_27F_C03.out	"NA"	0	0	0	0	0	0	0	0	0	0	NA
+QA_020_J665-C8_27F	NR_113594.1	99.401	1001	0	6	3	997	24	1024	0	1810	Streptococcus equinus strain NBRC 12553 16S ribosomal RNA, partial sequence
+QA_020_J665-C8_27F	NR_114642.1	99.301	1001	1	6	3	997	6	1006	0	1807	Streptococcus equinus strain NCDO 1037 16S ribosomal RNA, partial sequence
+QA_020_J665-C8_27F	NR_115719.1	99.001	1001	4	6	3	997	16	1016	0	1788	Streptococcus lutetiensis strain CIP 106849 16S ribosomal RNA, partial sequence
+QA_021_J665-C9_27F	NR_113594.1	99.439	1070	0	6	1	1064	29	1098	0	1938	Streptococcus equinus strain NBRC 12553 16S ribosomal RNA, partial sequence
+QA_021_J665-C9_27F	NR_114642.1	99.346	1070	1	6	1	1064	11	1080	0	1934	Streptococcus equinus strain NCDO 1037 16S ribosomal RNA, partial sequence
+QA_021_J665-C9_27F	NR_115719.1	99.065	1070	4	6	1	1064	21	1090	0	1916	Streptococcus lutetiensis strain CIP 106849 16S ribosomal RNA, partial sequence
+QA_022_J665-C10_27F_F03.out	"NA"	0	0	0	0	0	0	0	0	0	0	NA
+QA_023_J665-C11_27F	NR_113594.1	99.541	1090	0	5	1	1087	29	1116	0	1980	Streptococcus equinus strain NBRC 12553 16S ribosomal RNA, partial sequence
+QA_023_J665-C11_27F	NR_114642.1	99.45	1090	1	5	1	1087	11	1098	0	1977	Streptococcus equinus strain NCDO 1037 16S ribosomal RNA, partial sequence
+QA_023_J665-C11_27F	NR_115719.1	99.174	1090	4	5	1	1087	21	1108	0	1958	Streptococcus lutetiensis strain CIP 106849 16S ribosomal RNA, partial sequence
+QA_024_J665-C12_27F	NR_075036.1	99.799	995	1	1	1	994	49	1043	0	1825	Limosilactobacillus reuteri subsp. reuteri strain DSM 20016 16S ribosomal RNA, partial sequence
+QA_024_J665-C12_27F	NR_113820.1	99.799	995	1	1	1	994	29	1023	0	1825	Limosilactobacillus reuteri strain NBRC 15892 16S ribosomal RNA, partial sequence
+QA_024_J665-C12_27F	NR_119069.1	99.598	995	3	1	1	994	49	1043	0	1816	Limosilactobacillus reuteri subsp. reuteri strain DSM 20016 16S ribosomal RNA, partial sequence
