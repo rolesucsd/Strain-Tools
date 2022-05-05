@@ -9,4 +9,4 @@ Steps:
 
 
 Notes 
-- if you don't have anaconda, blast, seqtk, R and python downloaded on your personal laptop, I will have to run the code for you - working on making this a package 
+- if you don't have anaconda, blast, seqtk, R and python downloaded on your personal laptop, I will have to run the code for you - (we could make this into a package @Luke?)
