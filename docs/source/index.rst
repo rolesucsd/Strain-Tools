@@ -3,12 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Strain-tools's documentation
-========================================
+##################
+Pangenomics Tutorials
+##################
+
+This website was created as an introduction to pangenomics and general figure-generation walkthroughs.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :maxdepth: 1
+   :caption: Assembly and Quality Control
+
+   Isoqual <isoqual>
 
 
 .. toctree::
@@ -18,6 +24,10 @@ Strain-tools's documentation
 
    MASH <mash>
    
+
+
+
+
 
 
 Indices and tables
