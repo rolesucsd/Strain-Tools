@@ -11,6 +11,15 @@ Strain-tools's documentation
    :caption: Contents:
 
 
+.. toctree::
+   :hidden:
+   :maxdepth: 1
+   :caption: Phylogenetics
+
+   MASH <mash>
+   Tree in R <r-phylogeny>
+   
+
 
 Indices and tables
 ==================
